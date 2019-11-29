@@ -6,7 +6,7 @@ Note: Due to the adding of features over time, the code has become quite disorga
 The bot takes artist/creator data from a shared Google Sheet, and has the following functions:
 
 o!search [username]
-Searches for all creator usernames that match search term
+- Searches for all creator usernames that match search term
 - Aliases: se, s
 - Type "o!search" with no search term to get a list of all creators
 - This command is case insensitive, but if you misspell the search it won't work
@@ -18,17 +18,17 @@ Searches for all creator usernames that match search term
 - o!search o | This works, but will bring up multiple search results
 
 o!search tags [tag]
-Searches for all creators that have tags that match search term
+- Searches for all creators that have tags that match search term
 - Type "o!search tags" with no search term to get a list of all tags
 - All of the above information is the same for the tags sub-command, misspellings will not work
 
 o!price [price]
-Searches for all creators that have price ranges that match search term
+- Searches for all creators that have price ranges that match search term
 - Aliases: pr, p
 - Fairly self-explanatory, just make sure you type a valid number
 
 o!info [number]
-Used only when a search brings up multiple results to select an individual creator
+- Used only when a search brings up multiple results to select an individual creator
 - Aliases: in, i
 - Example search results:
 1 Onyx#8093
@@ -37,11 +37,11 @@ Used only when a search brings up multiple results to select an individual creat
 - So typing "o!info 1" would bring up Onyx's creator info
 
 o!help
-A basic help command
+- A basic help command
 - Aliases: h, about, tutorial
 
 o!helpmore
-A more detailed help command
+- A more detailed help command
 
 It also has some admin commands:
 
