@@ -3,7 +3,7 @@ A Discord bot for a friend's art commission server
 
 Note: Due to the adding of features over time, the code has become quite disorganized, which I am not happy about. 
 
-The bot takes artist/creator data from a shared Google Sheet, and has the following functions (Copied directly from the help command because I'm lazy):
+The bot takes artist/creator data from a shared Google Sheet, and has the following functions:
 
 o!search [username]
 Searches for all creator usernames that match search term
