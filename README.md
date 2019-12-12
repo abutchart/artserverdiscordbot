@@ -3,8 +3,6 @@ A Discord bot for a friend's art commission server
 
 Written in Python with the Discord.py library
 
-Note: Due to the adding of features over time, the code has become quite disorganized, which I am not happy about. 
-
 The bot takes artist/creator data from a shared Google Sheet, and has the following functions:
 
 o!search [username]
