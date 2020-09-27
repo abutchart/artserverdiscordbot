@@ -1,5 +1,5 @@
 # artserverdiscordbot
-A Discord bot for a friend's art commission server 
+A Discord bot for an art commission server 
 
 Written in Python with the Discord.py library
 
