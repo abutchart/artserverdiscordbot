@@ -1,7 +1,7 @@
 # artserverdiscordbot
-A Discord bot for an art commission server 
+A Discord bot for an art commission server. 
 
-Written in Python with the Discord.py library
+Written in Python with the Discord.py library.
 
 The bot takes artist/creator data from a shared Google Sheet, and has the following functions:
 
